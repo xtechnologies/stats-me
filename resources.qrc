@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>images/table.ico</file>
+        <file>images/table.png</file>
+    </qresource>
+</RCC>
